@@ -1,0 +1,26 @@
+<annotation>
+	<folder>WhatsApp Unknown 2022-05-09 at 10.38.33 AM</folder>
+	<filename>WhatsApp Image 2022-05-09 at 10.38.16 AM.jpeg</filename>
+	<path>C:\Users\Awais Ahmed\Downloads\WhatsApp Unknown 2022-05-09 at 10.38.33 AM\WhatsApp Image 2022-05-09 at 10.38.16 AM.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>864</width>
+		<height>1152</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hello</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>135</xmin>
+			<ymin>527</ymin>
+			<xmax>342</xmax>
+			<ymax>744</ymax>
+		</bndbox>
+	</object>
+</annotation>
